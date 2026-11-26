@@ -1,7 +1,15 @@
+## Dokumentasi Tampilan
 
+### Tampilan Aplikasi
 
-<img width="365" height="758" alt="image" src="https://github.com/user-attachments/assets/2c92698b-2c8f-48b5-8974-a7f5c0674f23" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/863f57d9-fbb1-49ec-a1aa-a8580b0f1810" alt="Daftar siswa sebelum data ditambahkan" width="230" height="490" />
+  <img src="https://github.com/user-attachments/assets/d8e92ece-ceba-4e0e-b32a-52d7a927f648" alt="Form Tambah Siswa" width="230" height="490" />
+  <img src="https://github.com/user-attachments/assets/7e111e0f-6a22-42c6-ab31-07049437e2a8" alt="Daftar siswa setelah data ditambahkan" width="230" height="490" />
+</p>
 
-<img width="375" height="782" alt="image" src="https://github.com/user-attachments/assets/ace39ea7-bf1c-4baa-a01a-7843568f3739" />
+### Data Siswa di phpMyAdmin
 
-<img width="1917" height="970" alt="image" src="https://github.com/user-attachments/assets/cee9a233-1555-4e2b-a39f-7811d9faabaf" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/153c8915-0ec5-4dda-943d-7ec80067e9dd" alt="Screenshot desktop" width="90%" />
+</p>
